@@ -7,8 +7,8 @@ import {
   Navigate,
   Outlet,
 } from "react-router-dom";
-import Home from "./home";
-import Users from "./users";
+import Home from "./Home";
+import Users from "./Users";
 import { useState } from "react";
 import Profile from "./Profile";
 import Login from "./Login";
